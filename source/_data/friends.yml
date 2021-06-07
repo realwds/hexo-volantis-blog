@@ -1,0 +1,15 @@
+- group: 旗下产品 # 分组标题
+  description:  这是我的站点 # 分组描述
+  items:
+    - title: realwds's blog # 名称
+      avatar: https://cdn.jsdelivr.net/gh/realwds/cdn@master/img/20210115180321.png # 头像
+      url: https://blog.realwds.com/ # 链接
+      screenshot: https://image.thum.io/get/maxAge/12/width/700/https://blog.realwds.com/ # 截图
+      keywords: 前端 # 关键词
+      description: 数学系的挨踢者 # 描述
+    # - title: # 名称
+    #   avatar: # 头像
+    #   url: # 链接
+    #   screenshot: # 截图
+    #   keywords: # 关键词
+    #   description: # 描述
