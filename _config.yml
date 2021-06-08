@@ -10,11 +10,12 @@ keywords: relawds、realwds's blog
 author: Alejandro
 language: zh-CN
 timezone: Asia/Shanghai
+favicon: https://cdn.jsdelivr.net/gh/realwds/cdn@master/blog/favicon.png
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://blog.realwds.com
-root: /
+root: /hexo-volantis
 permalink: posts/:abbrlink  # 此处可以自己设置，也可以直接使用 :/abbrlink
 abbrlink:
     alg: crc32   #算法： crc16(default) and crc32
@@ -106,7 +107,9 @@ theme: volantis
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:realwds/hexo-volantis-blog.git # 推送到仓库
+  branch: gh-pages
 
 # Feed
 feed:
