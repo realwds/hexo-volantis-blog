@@ -6,11 +6,24 @@
 
 ## 安装使用（Installation）
 
-```shell
-git clone https://github.com/realwds/hexo-volantis-blog.git
-npm install hexo-cli -g
-npm install
-hexo s
+``` sh
+# 进入文件目录
+cd source
+
+# 启动
+npm run dev
+
+# 新建文件夹
+hexo new page <文件夹名称>
+
+# 新建文件
+hexo new post <文章标题>
+
+# 部署
+npm run build
+
+# 提交
+npm run upload <提交信息说明>
 ```
 
 如果觉得我的项目还不错的话👏 ，就给个 star ⭐ 鼓励一下吧~
