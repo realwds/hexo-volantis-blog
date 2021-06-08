@@ -3,11 +3,11 @@
   <title>realwds&#39;s blog</title>
   
   <subtitle>数学系的挨踢者</subtitle>
-  <link href="https://blog.realwds.com/atom.xml" rel="self"/>
+  <link href="https://realwds.github.io/hexo-volantis-blog/atom.xml" rel="self"/>
   
-  <link href="https://blog.realwds.com/"/>
+  <link href="https://realwds.github.io/hexo-volantis-blog/"/>
   <updated>2021-06-08T07:26:51.167Z</updated>
-  <id>https://blog.realwds.com/</id>
+  <id>https://realwds.github.io/hexo-volantis-blog/</id>
   
   <author>
     <name>Alejandro</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>CSS 常用知识点回顾</title>
-    <link href="https://blog.realwds.com/posts/337220b2"/>
-    <id>https://blog.realwds.com/posts/337220b2</id>
+    <link href="https://realwds.github.io/hexo-volantis-blog/posts/337220b2"/>
+    <id>https://realwds.github.io/hexo-volantis-blog/posts/337220b2</id>
     <published>2021-05-19T04:01:06.000Z</published>
     <updated>2021-06-08T07:26:51.167Z</updated>
     
@@ -30,21 +30,21 @@
     
     
     
-    <category term="CSS" scheme="https://blog.realwds.com/categories/CSS/"/>
+    <category term="CSS" scheme="https://realwds.github.io/hexo-volantis-blog/categories/CSS/"/>
     
     
-    <category term="css" scheme="https://blog.realwds.com/tags/css/"/>
+    <category term="css" scheme="https://realwds.github.io/hexo-volantis-blog/tags/css/"/>
     
-    <category term="精选" scheme="https://blog.realwds.com/tags/%E7%B2%BE%E9%80%89/"/>
+    <category term="精选" scheme="https://realwds.github.io/hexo-volantis-blog/tags/%E7%B2%BE%E9%80%89/"/>
     
-    <category term="知识点" scheme="https://blog.realwds.com/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
+    <category term="知识点" scheme="https://realwds.github.io/hexo-volantis-blog/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
     
   </entry>
   
   <entry>
     <title>JavaScript 常用知识点回顾</title>
-    <link href="https://blog.realwds.com/posts/5b7188dc"/>
-    <id>https://blog.realwds.com/posts/5b7188dc</id>
+    <link href="https://realwds.github.io/hexo-volantis-blog/posts/5b7188dc"/>
+    <id>https://realwds.github.io/hexo-volantis-blog/posts/5b7188dc</id>
     <published>2021-05-19T03:43:04.000Z</published>
     <updated>2021-06-08T07:31:07.809Z</updated>
     
@@ -55,14 +55,14 @@
     
     
     
-    <category term="JavaScript" scheme="https://blog.realwds.com/categories/JavaScript/"/>
+    <category term="JavaScript" scheme="https://realwds.github.io/hexo-volantis-blog/categories/JavaScript/"/>
     
     
-    <category term="精选" scheme="https://blog.realwds.com/tags/%E7%B2%BE%E9%80%89/"/>
+    <category term="精选" scheme="https://realwds.github.io/hexo-volantis-blog/tags/%E7%B2%BE%E9%80%89/"/>
     
-    <category term="知识点" scheme="https://blog.realwds.com/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
+    <category term="知识点" scheme="https://realwds.github.io/hexo-volantis-blog/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
     
-    <category term="js" scheme="https://blog.realwds.com/tags/js/"/>
+    <category term="js" scheme="https://realwds.github.io/hexo-volantis-blog/tags/js/"/>
     
   </entry>
   

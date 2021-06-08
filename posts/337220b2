@@ -17,7 +17,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   
-  <link rel="preload" href="/hexo-volantis/css/first.css" as="style">
+  <link rel="preload" href="/hexo-volantis-blog/css/first.css" as="style">
   
 
   <!-- 页面元数据 -->
@@ -33,7 +33,7 @@
 
   <!-- feed -->
   
-    <link rel="alternate" href="/hexo-volantis/atom.xml" title="realwds's blog" type="application/atom+xml">
+    <link rel="alternate" href="/hexo-volantis-blog/atom.xml" title="realwds's blog" type="application/atom+xml">
   
 
   <!-- import meta -->
@@ -49,13 +49,13 @@
 
   
     
-<link rel="stylesheet" href="/hexo-volantis/css/first.css">
+<link rel="stylesheet" href="/hexo-volantis-blog/css/first.css">
 
   
 
   
-  <link rel="stylesheet" href="/hexo-volantis/css/style.css" media="print" onload="this.media='all';this.onload=null">
-  <noscript><link rel="stylesheet" href="/hexo-volantis/css/style.css"></noscript>
+  <link rel="stylesheet" href="/hexo-volantis-blog/css/style.css" media="print" onload="this.media='all';this.onload=null">
+  <noscript><link rel="stylesheet" href="/hexo-volantis-blog/css/style.css"></noscript>
   
 
   <script id="loadcss"></script>
@@ -125,7 +125,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
 		<div class="nav-main">
       
         
-        <a class="title flat-box" target="_self" href='/hexo-volantis/'>
+        <a class="title flat-box" target="_self" href='/hexo-volantis-blog/'>
           
           
           
@@ -142,11 +142,11 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
             
             
               <li>
-                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis/
+                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis-blog/
                   
                   
                   
-                    id="hexo-volantis"
+                    id="hexo-volantis-blog"
                   >
                   <i class='fas fa-rss fa-fw'></i>博客
                 </a>
@@ -158,11 +158,11 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
             
             
               <li>
-                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis/categories/
+                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis-blog/categories/
                   
                   
                   
-                    id="hexo-volantiscategories"
+                    id="hexo-volantis-blogcategories"
                   >
                   <i class='fas fa-folder-open fa-fw'></i>分类
                 </a>
@@ -174,11 +174,11 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
             
             
               <li>
-                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis/tags/
+                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis-blog/tags/
                   
                   
                   
-                    id="hexo-volantistags"
+                    id="hexo-volantis-blogtags"
                   >
                   <i class='fas fa-tags fa-fw'></i>标签
                 </a>
@@ -190,11 +190,11 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
             
             
               <li>
-                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis/archives/
+                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis-blog/archives/
                   
                   
                   
-                    id="hexo-volantisarchives"
+                    id="hexo-volantis-blogarchives"
                   >
                   <i class='fas fa-archive fa-fw'></i>归档
                 </a>
@@ -224,11 +224,11 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
               
             
               <li>
-                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis/
+                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis-blog/
                   
                   
                   
-                    id="hexo-volantis"
+                    id="hexo-volantis-blog"
                   >
                   <i class='fas fa-rss fa-fw'></i>博客
                 </a>
@@ -240,11 +240,11 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
               
             
               <li>
-                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis/categories/
+                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis-blog/categories/
                   
                   
                   
-                    id="hexo-volantiscategories"
+                    id="hexo-volantis-blogcategories"
                   >
                   <i class='fas fa-folder-open fa-fw'></i>分类
                 </a>
@@ -256,11 +256,11 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
               
             
               <li>
-                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis/tags/
+                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis-blog/tags/
                   
                   
                   
-                    id="hexo-volantistags"
+                    id="hexo-volantis-blogtags"
                   >
                   <i class='fas fa-tags fa-fw'></i>标签
                 </a>
@@ -272,11 +272,11 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
               
             
               <li>
-                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis/archives/
+                <a class="menuitem flat-box faa-parent animated-hover" href=/hexo-volantis-blog/archives/
                   
                   
                   
-                    id="hexo-volantisarchives"
+                    id="hexo-volantis-blogarchives"
                   >
                   <i class='fas fa-archive fa-fw'></i>归档
                 </a>
@@ -314,38 +314,38 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       <div class='list-h'>
         
           
-            <a href="/hexo-volantis/v4/getting-started/"
+            <a href="/hexo-volantis-blog/v4/getting-started/"
               
               
-              id="hexo-volantisv4getting-started">
+              id="hexo-volantis-blogv4getting-started">
               <img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg'><p>文档</p>
             </a>
           
-            <a href="/hexo-volantis/faqs/"
+            <a href="/hexo-volantis-blog/faqs/"
               
               
-              id="hexo-volantisfaqs">
+              id="hexo-volantis-blogfaqs">
               <img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg'><p>帮助</p>
             </a>
           
-            <a href="/hexo-volantis/examples/"
+            <a href="/hexo-volantis-blog/examples/"
               
               
-              id="hexo-volantisexamples">
+              id="hexo-volantis-blogexamples">
               <img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f396.svg'><p>示例</p>
             </a>
           
-            <a href="/hexo-volantis/contributors/"
+            <a href="/hexo-volantis-blog/contributors/"
               
               
-              id="hexo-volantiscontributors">
+              id="hexo-volantis-blogcontributors">
               <img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f389.svg'><p>社区</p>
             </a>
           
-            <a href="/hexo-volantis/archives/"
+            <a href="/hexo-volantis-blog/archives/"
               
               
-              id="hexo-volantisarchives">
+              id="hexo-volantis-blogarchives">
               <img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg'><p>博客</p>
             </a>
           
@@ -387,7 +387,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
   <div class="article-meta" id="top">
     
     
-      <a title='CSS 常用知识点回顾' href='/hexo-volantis/posts/337220b2'>
+      <a title='CSS 常用知识点回顾' href='/hexo-volantis-blog/posts/337220b2'>
         <img class='thumbnail' src='https://cdn.jsdelivr.net/gh/realwds/cdn@master/blog-cover/css.66y0hzd74js0.png'>
       </a>
     
@@ -400,7 +400,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
           
             
 <div class='new-meta-item author'>
-  <a class='author' href="https://blog.realwds.com" rel="nofollow">
+  <a class='author' target="_blank" href="https://blog.realwds.com" rel="nofollow noopener">
     <img no-lazy src="https://cdn.jsdelivr.net/gh/realwds/cdn@master/img/20201216165755.jpg">
     <p>realwds</p>
   </a>
@@ -413,7 +413,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
   <div class='new-meta-item category'>
     <a class='notlink'>
       <i class="fas fa-folder-open fa-fw" aria-hidden="true"></i>
-      <a class="category-link" href="/hexo-volantis/categories/CSS/">CSS</a>
+      <a class="category-link" href="/hexo-volantis-blog/categories/CSS/">CSS</a>
     </a>
   </div>
 
@@ -435,7 +435,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
   <div class="new-meta-item browse leancloud">
     <a class='notlink'>
       
-      <div id="lc-pv" data-title="CSS 常用知识点回顾" data-path="/hexo-volantis/posts/337220b2">
+      <div id="lc-pv" data-title="CSS 常用知识点回顾" data-path="/hexo-volantis-blog/posts/337220b2">
         <i class="fas fa-eye fa-fw" aria-hidden="true"></i>
         <span id='number'><i class="fas fa-circle-notch fa-spin fa-fw" aria-hidden="true"></i></span>
         次浏览
@@ -569,7 +569,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
               
             
               
-                <p>本文永久链接是：<a href=https://blog.realwds.com/posts/337220b2>https://blog.realwds.com/posts/337220b2</a></p>
+                <p>本文永久链接是：<a href=https://realwds.github.io/hexo-volantis-blog/posts/337220b2>https://realwds.github.io/hexo-volantis-blog/posts/337220b2</a></p>
               
             
           </blockquote>
@@ -598,7 +598,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
         
           
   
-  <div class="new-meta-item meta-tags"><a class="tag" href="/hexo-volantis/tags/css/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>css</p></a></div> <div class="new-meta-item meta-tags"><a class="tag" href="/hexo-volantis/tags/%E7%B2%BE%E9%80%89/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>精选</p></a></div> <div class="new-meta-item meta-tags"><a class="tag" href="/hexo-volantis/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>知识点</p></a></div>
+  <div class="new-meta-item meta-tags"><a class="tag" href="/hexo-volantis-blog/tags/css/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>css</p></a></div> <div class="new-meta-item meta-tags"><a class="tag" href="/hexo-volantis-blog/tags/%E7%B2%BE%E9%80%89/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>精选</p></a></div> <div class="new-meta-item meta-tags"><a class="tag" href="/hexo-volantis-blog/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>知识点</p></a></div>
 
 
         
@@ -611,7 +611,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       
         <a class="-mob-share-qq" title="" rel="external nofollow noopener noreferrer noopener"
           
-          target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://blog.realwds.com/posts/337220b2&title=CSS 常用知识点回顾 - realwds's blog&pics=https://cdn.jsdelivr.net/gh/realwds/cdn@master/blog-cover/css.66y0hzd74js0.png&summary="
+          target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://realwds.github.io/hexo-volantis-blog/posts/337220b2&title=CSS 常用知识点回顾 - realwds's blog&pics=https://cdn.jsdelivr.net/gh/realwds/cdn@master/blog-cover/css.66y0hzd74js0.png&summary="
           
           >
           
@@ -623,7 +623,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       
         <a class="-mob-share-qzone" title="" rel="external nofollow noopener noreferrer noopener"
           
-          target="_blank" href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://blog.realwds.com/posts/337220b2&title=CSS 常用知识点回顾 - realwds's blog&pics=https://cdn.jsdelivr.net/gh/realwds/cdn@master/blog-cover/css.66y0hzd74js0.png&summary="
+          target="_blank" href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://realwds.github.io/hexo-volantis-blog/posts/337220b2&title=CSS 常用知识点回顾 - realwds's blog&pics=https://cdn.jsdelivr.net/gh/realwds/cdn@master/blog-cover/css.66y0hzd74js0.png&summary="
           
           >
           
@@ -635,7 +635,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       
         <a class="-mob-share-weibo" title="" rel="external nofollow noopener noreferrer noopener"
           
-          target="_blank" href="http://service.weibo.com/share/share.php?url=https://blog.realwds.com/posts/337220b2&title=CSS 常用知识点回顾 - realwds's blog&pics=https://cdn.jsdelivr.net/gh/realwds/cdn@master/blog-cover/css.66y0hzd74js0.png&summary="
+          target="_blank" href="http://service.weibo.com/share/share.php?url=https://realwds.github.io/hexo-volantis-blog/posts/337220b2&title=CSS 常用知识点回顾 - realwds's blog&pics=https://cdn.jsdelivr.net/gh/realwds/cdn@master/blog-cover/css.66y0hzd74js0.png&summary="
           
           >
           
@@ -666,7 +666,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
     <div class="prev-next">
       
       
-        <a class='next' href='/hexo-volantis/posts/5b7188dc'>
+        <a class='next' href='/hexo-volantis-blog/posts/5b7188dc'>
           <p class='title'>JavaScript 常用知识点回顾<i class="fas fa-chevron-right" aria-hidden="true"></i></p>
           <p class='content'>内置类型
 JS 中分为七种内置类型，七种内置类型又分为两大类型：基本类型和对象（Object）。
@@ -731,13 +731,13 @@ JS 中分为七种内置类型，七种内置类型又分为两大类型：基�
       <ul class="entry navigation">
         
           <li><a class="flat-box"
-            title="/hexo-volantis/categories/CSS/" href="/hexo-volantis/categories/CSS/"
-            id="hexo-volantiscategoriesCSS"
+            title="/hexo-volantis-blog/categories/CSS/" href="/hexo-volantis-blog/categories/CSS/"
+            id="hexo-volantis-blogcategoriesCSS"
             ><div class='name'>CSS</div><div class='badge'>(1)</div></a></li>
         
           <li><a class="flat-box"
-            title="/hexo-volantis/categories/JavaScript/" href="/hexo-volantis/categories/JavaScript/"
-            id="hexo-volantiscategoriesJavaScript"
+            title="/hexo-volantis-blog/categories/JavaScript/" href="/hexo-volantis-blog/categories/JavaScript/"
+            id="hexo-volantis-blogcategoriesJavaScript"
             ><div class='name'>JavaScript</div><div class='badge'>(1)</div></a></li>
         
       </ul>
@@ -762,7 +762,7 @@ JS 中分为七种内置类型，七种内置类型又分为两大类型：基�
 
 
     <div class='content'>
-      <a href="/hexo-volantis/tags/css/" style="font-size: 14px; color: #999">css</a> <a href="/hexo-volantis/tags/js/" style="font-size: 14px; color: #999">js</a> <a href="/hexo-volantis/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/" style="font-size: 24px; color: #555">知识点</a> <a href="/hexo-volantis/tags/%E7%B2%BE%E9%80%89/" style="font-size: 24px; color: #555">精选</a>
+      <a href="/hexo-volantis-blog/tags/css/" style="font-size: 14px; color: #999">css</a> <a href="/hexo-volantis-blog/tags/js/" style="font-size: 14px; color: #999">js</a> <a href="/hexo-volantis-blog/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/" style="font-size: 24px; color: #555">知识点</a> <a href="/hexo-volantis-blog/tags/%E7%B2%BE%E9%80%89/" style="font-size: 24px; color: #555">精选</a>
     </div>
   </section>
 
@@ -830,7 +830,7 @@ JS 中分为七种内置类型，七种内置类型又分为两大类型：基�
         <div class="webinfo-item">
           <div>最后活动时间：</div>
           
-            <div id="last-update" style="display: none;">Tue Jun 08 2021 15:51:21 GMT+0800 (GMT+08:00)</div>
+            <div id="last-update" style="display: none;">Tue Jun 08 2021 15:53:42 GMT+0800 (GMT+08:00)</div>
             <div id="last-update-show">2021-06-08 日</div>
           
         </div>
@@ -950,7 +950,7 @@ JS 中分为七种内置类型，七种内置类型又分为两大类型：基�
     
       
         <div class='copyright'>
-        <p><a href="https://blog.realwds.com/">Copyright © 2017-2020 realwds</a></p>
+        <p><a target="_blank" rel="noopener" href="https://blog.realwds.com/">Copyright © 2017-2020 realwds</a></p>
 
         </div>
       
@@ -1156,7 +1156,7 @@ var loadCSS = function( href, before, media, attributes ){
   function loadIssuesJS() {
     if ($(".md").find(".issues-api").length == 0) return;
 	
-	  loadScript('/hexo-volantis/js/issues.js');
+	  loadScript('/hexo-volantis-blog/js/issues.js');
 	
   };
   $(function () {
@@ -1283,7 +1283,7 @@ var loadCSS = function( href, before, media, attributes ){
 
 
   
-<script src="/hexo-volantis/js/app.js"></script>
+<script src="/hexo-volantis-blog/js/app.js"></script>
 
 
 
@@ -1291,11 +1291,11 @@ var loadCSS = function( href, before, media, attributes ){
 
   <script>
 const SearchServiceimagePath="https://cdn.jsdelivr.net/gh/volantis-x/cdn-volantis@master/img/";
-const ROOT =  ("/hexo-volantis/" || "/").endsWith('/') ? ("/hexo-volantis/" || "/") : ("/hexo-volantis//" || "/" );
+const ROOT =  ("/hexo-volantis-blog/" || "/").endsWith('/') ? ("/hexo-volantis-blog/" || "/") : ("/hexo-volantis-blog//" || "/" );
 
 $('.input.u-search-input').one('focus',function(){
 	
-		loadScript('/hexo-volantis/js/search/hexo.js',setSearchService);
+		loadScript('/hexo-volantis-blog/js/search/hexo.js',setSearchService);
 	
 })
 
@@ -1415,7 +1415,7 @@ function setSearchService() {
       // 请求 PV 并自增
       var pvCtn = document.querySelector('#lc-sv');
       if (pvCtn || enableIncr) {
-        var pvGetter = this.getRecord(Counter, 'https://blog.realwds.com' + '/#lc-sv', 'Visits').then((record) => {
+        var pvGetter = this.getRecord(Counter, 'https://realwds.github.io/hexo-volantis-blog' + '/#lc-sv', 'Visits').then((record) => {
           incrArr.push(this.buildIncrement(record.objectId))
           var eles = document.querySelectorAll('#lc-sv #number');
           if (eles.length > 0) {
@@ -1433,7 +1433,7 @@ function setSearchService() {
       // 请求 UV 并自增
       var uvCtn = document.querySelector('#lc-uv');
       if (uvCtn || enableIncr) {
-        var uvGetter = this.getRecord(Counter, 'https://blog.realwds.com' + '/#lc-uv', 'Visitors').then((record) => {
+        var uvGetter = this.getRecord(Counter, 'https://realwds.github.io/hexo-volantis-blog' + '/#lc-uv', 'Visitors').then((record) => {
           var vuv = this.validUV();
           vuv && incrArr.push(this.buildIncrement(record.objectId))
           var eles = document.querySelectorAll('#lc-uv #number');
@@ -1455,7 +1455,7 @@ function setSearchService() {
         for (i = 0; i < allPV.length; i++) {
           let pv = allPV[i];
           let title = pv.getAttribute('data-title');
-          var url = 'https://blog.realwds.com' + pv.getAttribute('data-path');
+          var url = 'https://realwds.github.io/hexo-volantis-blog' + pv.getAttribute('data-path');
           if (url) {
             var viewGetter = this.getRecord(Counter, url, title).then((record) => {
               // 是当前页面就自增
