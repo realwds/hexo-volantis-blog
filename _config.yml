@@ -14,8 +14,8 @@ favicon: https://cdn.jsdelivr.net/gh/realwds/cdn@master/blog/favicon.png
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.realwds.com
-root: /hexo-volantis
+url: https://realwds.github.io/hexo-volantis-blog
+root: /hexo-volantis-blog
 permalink: posts/:abbrlink  # 此处可以自己设置，也可以直接使用 :/abbrlink
 abbrlink:
     alg: crc32   #算法： crc16(default) and crc32
